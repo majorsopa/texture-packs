@@ -1,0 +1,5 @@
+type=enchantment
+items=minecraft:potion
+damage=5
+damageMask=16447
+texture=noglint

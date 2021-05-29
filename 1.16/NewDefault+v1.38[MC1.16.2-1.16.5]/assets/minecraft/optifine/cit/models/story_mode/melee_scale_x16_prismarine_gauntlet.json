@@ -1,0 +1,101 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "minecraft:optifine/cit/icons/story_mode/prismarine_gauntlet",
+		"particle": "minecraft:optifine/cit/icons/story_mode/prismarine_gauntlet"
+	},
+	"elements": [
+		{
+			"from": [5.5, 4, 5.5],
+			"to": [10.5, 8, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 8, 14]},
+			"faces": {
+				"north": {"uv": [2.5, 2.5, 5, 4.5], "texture": "#0"},
+				"east": {"uv": [0, 2.5, 2.5, 4.5], "texture": "#0"},
+				"south": {"uv": [7.5, 2.5, 10, 4.5], "texture": "#0"},
+				"west": {"uv": [5, 2.5, 7.5, 4.5], "texture": "#0"},
+				"up": {"uv": [5, 2.5, 2.5, 0], "texture": "#0"},
+				"down": {"uv": [7.5, 0, 5, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 1, 5.5],
+			"to": [10.5, 3, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 5, 14]},
+			"faces": {
+				"north": {"uv": [2.5, 7, 5, 8], "texture": "#0"},
+				"east": {"uv": [0, 7, 2.5, 8], "texture": "#0"},
+				"south": {"uv": [7.5, 7, 10, 8], "texture": "#0"},
+				"west": {"uv": [5, 7, 7.5, 8], "texture": "#0"},
+				"up": {"uv": [5, 7, 2.5, 4.5], "texture": "#0"},
+				"down": {"uv": [7.5, 4.5, 5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 3, 6],
+			"to": [10, 4, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 6, 14]},
+			"faces": {
+				"north": {"uv": [9.5, 2, 11.5, 2.5], "texture": "#0"},
+				"east": {"uv": [7.5, 2, 9.5, 2.5], "texture": "#0"},
+				"south": {"uv": [13.5, 2, 15.5, 2.5], "texture": "#0"},
+				"west": {"uv": [11.5, 2, 13.5, 2.5], "texture": "#0"},
+				"up": {"uv": [11.5, 2, 9.5, 0], "texture": "#0"},
+				"down": {"uv": [13.5, 0, 11.5, 2], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -2, -0.1],
+			"scale": [1.05, 1.05, 1.05]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, -180, 0],
+			"translation": [0, -2, -0.1],
+			"scale": [1.05, 1.05, 1.05]
+		},
+		"firstperson_righthand": {
+			"rotation": [-30, -160, 0],
+			"translation": [0, 4, -2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-30, 20, 0],
+			"translation": [0, 4, -2]
+		},
+		"ground": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"gui": {
+			"rotation": [0, -45, 0],
+			"translation": [-0.25, 6.5, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"head": {
+			"rotation": [-90, -90, 0],
+			"translation": [0, 9.21, -4.35],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 7, 0],
+			"scale": [1.65, 1.65, 1.65]
+		}
+	},
+	"groups": [
+		{
+			"name": "prismarine_gauntlet",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "fist",
+					"origin": [8, 8, 8],
+					"children": [0, 1, 2]
+				}
+			]
+		}
+	]
+}

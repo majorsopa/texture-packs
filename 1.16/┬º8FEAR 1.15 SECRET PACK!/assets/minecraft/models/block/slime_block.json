@@ -1,0 +1,6 @@
+{   "parent": "block/cube_all",
+    "textures": {
+        "particle": "block/slime_block",
+        "all": "block/slime_block"
+    }
+}

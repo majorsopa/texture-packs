@@ -1,0 +1,6 @@
+{
+    "parent": "item/smaller_srd",
+    "textures": {
+        "layer0": "item/iron_sword"
+    }
+}

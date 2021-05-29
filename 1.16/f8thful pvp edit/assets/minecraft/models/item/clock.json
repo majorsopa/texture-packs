@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/clock_00"
+    },
+    "overrides": [
+        { "predicate": { "time": 0.0000000 }, "model": "item/clock" },
+        { "predicate": { "time": 0.0703125 }, "model": "item/clock_01" },
+        { "predicate": { "time": 0.1953125 }, "model": "item/clock_02" },
+        { "predicate": { "time": 0.3203125 }, "model": "item/clock_03" },
+        { "predicate": { "time": 0.4453125 }, "model": "item/clock_04" },
+        { "predicate": { "time": 0.5703125 }, "model": "item/clock_05" },
+        { "predicate": { "time": 0.6953125 }, "model": "item/clock_06" },
+        { "predicate": { "time": 0.8203125 }, "model": "item/clock_07" },
+        { "predicate": { "time": 0.9921875 }, "model": "item/clock" }
+    ]
+}

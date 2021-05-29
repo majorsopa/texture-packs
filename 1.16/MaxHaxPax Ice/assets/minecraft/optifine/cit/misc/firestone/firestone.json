@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./firestone"
+    },
+	"display": {
+		"firstperson_righthand": {"scale": [ 0.4, 0.4, 0.4 ], "rotation": [ 0, -90, 25 ], "translation": [ 1.13, 3.2, 1.13]},
+		"firstperson_lefthand": {"scale": [ 0.4, 0.4, 0.4 ], "rotation": [ 0, 90, -25 ], "translation": [ 1.13, 3.2, 1.13]},
+		"gui": {"scale": [0.8, 0.8, 0.8]}
+	}
+}

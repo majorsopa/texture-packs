@@ -1,0 +1,22 @@
+{
+  "item.minecraft.hoglin_spawn_egg": "Hoglin Spawn Egg",
+  "item.minecraft.piglin_spawn_egg": "Pigman Spawn Egg",
+  "item.minecraft.zombified_piglin_spawn_egg": "Zombie Pigman Spawn Egg",
+  "entity.minecraft.hoglin": "Hoglin",
+  "entity.minecraft.piglin": "Pigman",
+  "entity.minecraft.zombified_piglin": "Zombie Pigman",  
+  "subtitles.entity.piglin.admiring_item": "Pigman admires item",
+  "subtitles.entity.piglin.ambient": "Pigman snorts",
+  "subtitles.entity.piglin.angry": "Pigman snorts angrily",
+  "subtitles.entity.piglin.celebrate": "Pigman celebrates",
+  "subtitles.entity.piglin.death": "Pigman dies",
+  "subtitles.entity.piglin.jealous": "Pigman snorts enviously",
+  "subtitles.entity.piglin.hurt": "Pigman hurts",
+  "subtitles.entity.piglin.retreat": "Pigman retreats",
+  "subtitles.entity.piglin.step": "Pigman steps",
+  "subtitles.entity.piglin.converted_to_zombified": "Pigman converts to Zombie Pigman",
+  "subtitles.entity.zombified_piglin.ambient": "Zombie Pigman grunts",
+  "subtitles.entity.zombified_piglin.angry": "Zombie Pigman angers",
+  "subtitles.entity.zombified_piglin.death": "Zombie Pigman dies",
+  "subtitles.entity.zombified_piglin.hurt": "Zombie Pigman hurts"
+}

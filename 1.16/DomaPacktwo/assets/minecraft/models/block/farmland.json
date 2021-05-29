@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"3": "block/dirt",
+		"particle": "block/farmland_front",
+		"dirt": "block/farmland_front",
+		"top": "block/farmland_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 15, 16],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 16], "texture": "#top", "cullface": "north"},
+				"east": {"uv": [0, 1, 16, 16], "texture": "#dirt", "cullface": "east"},
+				"south": {"uv": [0, 1, 16, 16], "texture": "#top", "cullface": "south"},
+				"west": {"uv": [0, 1, 16, 16], "texture": "#dirt", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,2 @@
+execute if entity @a[tag=panorama] run tellraw @s {"text":"Wait until the other player finishes his panorama.","color":"dark_purple"}
+execute unless entity @a[tag=panorama] run function panorama_maker:setup

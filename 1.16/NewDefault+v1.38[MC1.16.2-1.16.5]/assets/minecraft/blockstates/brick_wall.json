@@ -1,0 +1,94 @@
+{
+    "multipart": [
+        {   "when": { "up": "true" },
+            "apply": [
+			{ "model": "block/brick_wall_post" },
+			{ "model": "block/brick_wall_post0" },
+			{ "model": "block/brick_wall_post1" },
+			{ "model": "block/brick_wall_post2" },
+			{ "model": "block/brick_wall_post3" },
+			{ "model": "block/brick_wall_post4" },
+			{ "model": "block/brick_wall_post5" }]
+        },
+        {   "when": { "north": "low" },
+            "apply": [
+			{ "model": "block/brick_wall_side", "uvlock": true },
+			{ "model": "block/brick_wall_side0", "uvlock": true },
+			{ "model": "block/brick_wall_side1", "uvlock": true },
+			{ "model": "block/brick_wall_side2", "uvlock": true },
+			{ "model": "block/brick_wall_side3", "uvlock": true },
+			{ "model": "block/brick_wall_side4", "uvlock": true },
+			{ "model": "block/brick_wall_side5", "uvlock": true }]
+        },
+        {   "when": { "east": "low" },
+            "apply": [
+			{ "model": "block/brick_wall_side", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side0", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side1", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side2", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side3", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side4", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side5", "y": 90, "uvlock": true }]
+        },
+        {   "when": { "south": "low" },
+            "apply": [
+			{ "model": "block/brick_wall_side", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side0", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side1", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side2", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side3", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side4", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side5", "y": 180, "uvlock": true }]
+        },
+        {   "when": { "west": "low" },
+            "apply": [
+			{ "model": "block/brick_wall_side", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side0", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side1", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side2", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side3", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side4", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side5", "y": 270, "uvlock": true }]
+        },
+        {   "when": { "north": "tall" },
+            "apply": [
+			{ "model": "block/brick_wall_side_tall", "uvlock": true },
+			{ "model": "block/brick_wall_side_tall0", "uvlock": true },
+			{ "model": "block/brick_wall_side_tall1", "uvlock": true },
+			{ "model": "block/brick_wall_side_tall2", "uvlock": true },
+			{ "model": "block/brick_wall_side_tall3", "uvlock": true },
+			{ "model": "block/brick_wall_side_tall4", "uvlock": true },
+			{ "model": "block/brick_wall_side_tall5", "uvlock": true }]
+        },
+        {   "when": { "east": "tall" },
+            "apply": [
+			{ "model": "block/brick_wall_side_tall", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall0", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall1", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall2", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall3", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall4", "y": 90, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall5", "y": 90, "uvlock": true }]
+        },
+        {   "when": { "south": "tall" },
+            "apply": [
+			{ "model": "block/brick_wall_side_tall", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall0", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall1", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall2", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall3", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall4", "y": 180, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall5", "y": 180, "uvlock": true }]
+        },
+        {   "when": { "west": "tall" },
+            "apply": [
+			{ "model": "block/brick_wall_side_tall", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall0", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall1", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall2", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall3", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall4", "y": 270, "uvlock": true },
+			{ "model": "block/brick_wall_side_tall5", "y": 270, "uvlock": true }]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+Smaller axe and sword with better shapes
+1px smaller pickaxe
+More aesthetic elytra
+Experience bottle has a correct shape 
+Clean widgets
+Low transparent fire
+Clear under water vision 
+Higher quality water
+More vibrant colormap
+Smaller item models for food and pvp utilities
+Fullbright light map (requieres optifine)
+Arabic numbers for potion effects and enchantments
+Alert to harvest crops 
+Transparent and unobtrusive rain and snow
+Better glass
+Highlighted ores
+Emissive ores (requieres optifine)
+Tall grass is smaller 
+Clean end crystal borders
+3d/end crystal in hand
+Better crosshair
+More vibrant icons
+Wither hearts easier to see
+Transparent inventory in all containers
+Animated ender pearl
+Better enchant glint 
+No vignette
+No pumpkinblur
+Removed the green nausea overlay
+No explosion particles
+Tripwire is more visible
+Better attack indicator
+More aggressive look to the trident item
+Better and more detailed fishing rod
+
+

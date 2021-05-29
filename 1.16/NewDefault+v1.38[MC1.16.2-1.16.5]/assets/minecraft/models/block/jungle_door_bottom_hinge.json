@@ -1,0 +1,23 @@
+{
+	"__comment": "Designed by MSpaceDev with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/jungle_door_top",
+		"bottom": "block/jungle_door_bottom",
+		"top": "block/jungle_door_top"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box10",
+			"from": [ 0, 0, 0 ],
+			"to": [ 3, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 3, 16 ], "texture": "#bottom" },
+				"north": { "uv": [ 0, 0, 3, 16 ], "texture": "#bottom" },
+				"south": { "uv": [ 0, 0, 3, 16 ], "texture": "#bottom" },
+				"west": { "uv": [ 16, 0, 0, 16 ], "texture": "#bottom" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" }
+			}
+		}
+	]
+}

@@ -1,0 +1,33 @@
+Vanilla Tweaks Resource Pack
+Version: 1.14
+Packs:
+	DifferentStems
+	PlainLeatherArmor
+	SofterWool
+	SmootherStones
+	SmootherOakLog
+	BetterBedrock
+	LowerGrass
+	LowerMycelium
+	LowerPaths
+	LowerSnow
+	LowerPodzol
+	QuieterEndermen
+	StickyPistonSides
+	DirectionalHoppers
+	BetterObservers
+	Age25Kelp
+	UnobtrusiveRain
+	BorderlessGlass
+	BorderlessStainedGlass
+	TransparentPumpkin
+	LowerShield
+	LowerFire
+	CleanerWorldBorder
+	SmallerUtilities
+	MoreCrosshairs-CircleDot
+	PingColorIndicator
+	DarkUIGreyText
+	StoneBackground
+	LakesideSunset
+	XisumaPaintings

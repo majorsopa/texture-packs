@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/gilded_blackstone_top",
+    "side": "minecraft:block/gilded_blackstone"
+  }
+}

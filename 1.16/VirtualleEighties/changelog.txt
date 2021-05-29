@@ -1,0 +1,36 @@
+New custom sky
+Small pvp utilities in hand
+Custom lang (arabic numbers)
+Fixed vanilla textures inconsistencies (clock, compass, signs, etc)
+Transparent empty armor slots
+Emissive textures
+Vibrant colormap
+Aesthetic enchant glint
+New projectile textures (arrows)
+Custom and 3d end crystal
+Low fire
+Clear water
+Transparent rain
+Transparent snow
+New bow 
+New crossbow
+New tools for every material
+New armor for every material
+New ender pearl
+New apple and golden apple
+New music discs
+New compass
+New clock
+Better and smooth blocks
+Better forcefield
+No pumpkin blur
+No nausea overlay
+No shadow entity
+Better underwater vision
+No vignette
+New paintings
+Particles!
+Experience orbs are now stars
+low taller grass
+Charizard Elytra
+
